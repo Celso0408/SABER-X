@@ -13,8 +13,7 @@ Sections are split into **synchrotron** sources and **benchtop** (lab) X-ray col
 * **MDF (Materials Data Facility) – APS HEDM / diffraction** – e.g., SrTiO₃ high-energy X-ray diffraction microscopy datasets from APS 1-ID. ([acdc.alcf.anl.gov][4])
 
 ---
-
-## Major Photon/Neutron Facilities (Key Contributors)
+## Panosc Major Photon/Neutron Facilities
 
 > These facilities are **major contributors** to open experimental X-ray (and related PaN) datasets referenced above—**there are more worldwide**.
 
