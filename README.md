@@ -9,7 +9,6 @@ Sections are split into **synchrotron** sources and **benchtop** (lab) X-ray col
 
 * **PaNOSC Open Data Portal** – federated search across major European photon/neutron facilities (ESRF, MAX IV, PSI/SLS, SOLEIL, etc.); find XRD, PDF/total scattering, XAS, GI(W)AXS datasets with DOIs. ([data.panosc.eu][1])
 * **ESRF & partner ICAT portals (via PaNOSC)** – facility landing pages and DOIs reachable from the PaNOSC search. ([data.panosc.eu][1])
-* **Diamond Light Source – DataGateway (ICAT)** – browse and download public beamline datasets. ([YouTube][2])
 * **Canadian Light Source (CLS) – FRDR collections** – public records for CLS datasets (XAS, XRD, etc.), including bulk downloads (Globus). ([frdr-dfdr.ca][3])
 * **MDF (Materials Data Facility) – APS HEDM / diffraction** – e.g., SrTiO₃ high-energy X-ray diffraction microscopy datasets from APS 1-ID. ([acdc.alcf.anl.gov][4])
 
